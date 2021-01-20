@@ -1,0 +1,26 @@
+{
+  "name": "Proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+
+ 
+  "scripts": {
+  "start": "nodemon app.js 2+2+2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeniaV123/Proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeniaV123/Proyecto/issues"
+  },
+  "homepage": "https://github.com/KeniaV123/Proyecto#readme",
+  "dependencies": {
+    "mathjs-expression-parser": "^1.0.2",
+    "nodemon": "^2.0.7"
+  }
+}
